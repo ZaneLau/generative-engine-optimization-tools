@@ -60,6 +60,7 @@ These can help you ride the AI wave to success rather than drown in it.
 - **[Share of Model](https://www.jellyfish.com/en-us/news/jellyfish-launches-the-share-of-model-platform/)** – Jellyfish’s metric & platform measuring *proportional* mentions across LLMs—the “share of voice” for AI.
 - **[Tesseract](https://tesseract.adlift.com/)** – Tracks and analyses brand visibility across LLMs with AI Overview.
 - **[Trackerly.ai](https://trackerly.ai)** – Daily brand-mention tracker covering multiple LLMs in 20+ languages; auto-builds PDF or live-link reports for agencies and in-house teams.
+- **[Traclux](https://github.com/ZaneLau/traclux-probe)** – Apache-2.0, self-hosted GEO workbench for CSSM-HI probe generation, configured-model execution, and saved-answer analysis.
 - **[Trakkr.ai](https://trakkr.ai)** – Free beta doing daily prompt generation & tracking across the five biggest LLMs; 60-second set-up.
 - **[Visalytica](https://www.visalytica.com)** – AI visibility and optimization tool for monitoring brand presence in ChatGPT, Claude, Gemini & Perplexity.
 - **[What AI Knows About You](https://waikay.io)** – Audits the facts, sentiment and hallucinations AI engines present about your brand; alerts for reputation risks.
